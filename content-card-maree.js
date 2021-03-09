@@ -343,4 +343,4 @@ class ContentCardMaree extends LitElement {
   }
 }
 
-customElements.define('content-card-maree', ContentCardMaree);
+customElements.define('content-card-marees', ContentCardMaree);
